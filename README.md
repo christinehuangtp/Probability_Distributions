@@ -1,2 +1,4 @@
 # Random_Values
-Practice generating random values and graphing with Seaborn charts
+### Practice generating random values and graphing with Seaborn charts
+
+import random
